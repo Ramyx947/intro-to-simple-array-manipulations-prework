@@ -1,5 +1,5 @@
 
-def using_push(countries_in_western_africa,"Niger")
+def using_push("countries_in_western_africa","Niger")
   using_push.push("Niger")
 end
 
